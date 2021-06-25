@@ -1,0 +1,6 @@
+alibaba:
+  sae:
+    tenant-id: 3977e6fb-68a6-4999-baaa-fc6899822fa5
+    access-key: 9eeb4343f5814b52a9a43f76acacd878
+    secret-key: mK4RW97aTGKqSITP4FQUpdxj3ps=
+    endpoint: addr-bj-internal.edas.aliyun.com
